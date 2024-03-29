@@ -1,0 +1,20 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "E:\\Web Development\\Frontend_Fundamentalist\\Next-JS-Ninja\\Delta-HealthCare-Server-Shadman\\logs\\winston\\successes\\.f1ce2ea76f918884d86e7001b8600ac6663d0e51-audit.json",
+    "files": [
+        {
+            "date": 1711707754302,
+            "name": "E:\\Web Development\\Frontend_Fundamentalist\\Next-JS-Ninja\\Delta-HealthCare-Server-Shadman\\logs\\winston\\successes\\phu-2024-29-03-16-success.log",
+            "hash": "09f789710048f6183a44022aa3e38533c8d6b81b1dfb87d398f99899dac29634"
+        },
+        {
+            "date": 1711711482846,
+            "name": "E:\\Web Development\\Frontend_Fundamentalist\\Next-JS-Ninja\\Delta-HealthCare-Server-Shadman\\logs\\winston\\successes\\phu-2024-29-03-17-success.log",
+            "hash": "77c6cc73bdbf2d238d47deba825f49e467987b56f911c21b6414c4a1ade26626"
+        }
+    ],
+    "hashType": "sha256"
+}
