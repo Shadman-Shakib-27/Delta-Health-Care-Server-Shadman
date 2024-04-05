@@ -12,7 +12,7 @@ const createDoctor = catchAsync(async (req: Request, res: Response, next: NextFu
   sendResponse(res, {
     statusCode: httpStatus.OK,
     success: true,
-    message: 'Doctor created successfully!',
+    message: 'Doctor Created Successfully!',
     data: result,
   });
 });
@@ -24,7 +24,7 @@ const createAdmin = catchAsync(async (req: Request, res: Response) => {
   sendResponse(res, {
     statusCode: httpStatus.OK,
     success: true,
-    message: 'Admin created successfully!',
+    message: 'Admin Created Successfully!',
     data: result,
   });
 });
@@ -35,7 +35,7 @@ const createPatient = catchAsync(async (req: Request, res: Response) => {
   sendResponse(res, {
     statusCode: httpStatus.OK,
     success: true,
-    message: 'Patient created successfully!',
+    message: 'Patient Created Successfully!',
     data: result,
   });
 });
@@ -46,7 +46,7 @@ const changeProfileStatus = catchAsync(async (req: Request, res: Response) => {
   sendResponse(res, {
     statusCode: httpStatus.OK,
     success: true,
-    message: 'User status updated successfully!',
+    message: 'User Status Updated Successfully!',
     data: result,
   });
 });
@@ -59,7 +59,7 @@ const getAllUser = catchAsync(async (req: Request, res: Response) => {
   sendResponse(res, {
     statusCode: httpStatus.OK,
     success: true,
-    message: 'Users retrieval successfully',
+    message: 'Users Retrieval Successfully',
     meta: result.meta,
     data: result.data,
   });
@@ -73,7 +73,7 @@ const getMyProfile = catchAsync(async (req: Request, res: Response) => {
   sendResponse(res, {
     statusCode: httpStatus.OK,
     success: true,
-    message: 'Profile data fetched!',
+    message: 'Profile Data Fetched!',
     data: result
   });
 });
@@ -86,7 +86,7 @@ const updateMyProfile = catchAsync(async (req: Request, res: Response) => {
   sendResponse(res, {
     statusCode: httpStatus.OK,
     success: true,
-    message: 'Profile data fetched!',
+    message: 'Profile Data Fetched!',
     data: result
   });
 });
