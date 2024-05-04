@@ -6,39 +6,9 @@
     "auditLog": "E:\\Web Development\\Frontend_Fundamentalist\\Next-JS-Ninja\\Delta-HealthCare-Server-Shadman\\logs\\winston\\successes\\.f1ce2ea76f918884d86e7001b8600ac6663d0e51-audit.json",
     "files": [
         {
-            "date": 1711707754302,
-            "name": "E:\\Web Development\\Frontend_Fundamentalist\\Next-JS-Ninja\\Delta-HealthCare-Server-Shadman\\logs\\winston\\successes\\phu-2024-29-03-16-success.log",
-            "hash": "09f789710048f6183a44022aa3e38533c8d6b81b1dfb87d398f99899dac29634"
-        },
-        {
-            "date": 1711711482846,
-            "name": "E:\\Web Development\\Frontend_Fundamentalist\\Next-JS-Ninja\\Delta-HealthCare-Server-Shadman\\logs\\winston\\successes\\phu-2024-29-03-17-success.log",
-            "hash": "77c6cc73bdbf2d238d47deba825f49e467987b56f911c21b6414c4a1ade26626"
-        },
-        {
-            "date": 1711834693653,
-            "name": "E:\\Web Development\\Frontend_Fundamentalist\\Next-JS-Ninja\\Delta-HealthCare-Server-Shadman\\logs\\winston\\successes\\phu-2024-31-03-03-success.log",
-            "hash": "be390e28fa74ae190de78f6dc60dba6d6b86a967a10d2d5880bb0558c80b3217"
-        },
-        {
-            "date": 1711914805885,
-            "name": "E:\\Web Development\\Frontend_Fundamentalist\\Next-JS-Ninja\\Delta-HealthCare-Server-Shadman\\logs\\winston\\successes\\phu-2024-01-04-01-success.log",
-            "hash": "4e7ff7e50d9192a8e07848122388a9f79673172f9d1ed218792993a18f0821ba"
-        },
-        {
-            "date": 1711915906821,
-            "name": "E:\\Web Development\\Frontend_Fundamentalist\\Next-JS-Ninja\\Delta-HealthCare-Server-Shadman\\logs\\winston\\successes\\phu-2024-01-04-02-success.log",
-            "hash": "2fb2fa6a533c5b45396957b0150eac78e39081870341ca31c653aa60783ac54c"
-        },
-        {
-            "date": 1712168070115,
-            "name": "E:\\Web Development\\Frontend_Fundamentalist\\Next-JS-Ninja\\Delta-HealthCare-Server-Shadman\\logs\\winston\\successes\\phu-2024-04-04-00-success.log",
-            "hash": "a16b0c0a19446e6d991242fdb282e4cd9ef5047a3f886e8e084bfcab903c4a62"
-        },
-        {
-            "date": 1712172077489,
-            "name": "E:\\Web Development\\Frontend_Fundamentalist\\Next-JS-Ninja\\Delta-HealthCare-Server-Shadman\\logs\\winston\\successes\\phu-2024-04-04-01-success.log",
-            "hash": "2ad96d094aa3a7abe1ec5c273bf1c192f681f3ab3f9fcb1155314a1971a763cb"
+            "date": 1713798305004,
+            "name": "E:\\Web Development\\Frontend_Fundamentalist\\Next-JS-Ninja\\Delta-HealthCare-Server-Shadman\\logs\\winston\\successes\\phu-2024-22-04-21-success.log",
+            "hash": "7eec8b45d8f3a80b19700d2b625419cc48fd457c1cddc2c9ea83fbec72306e34"
         }
     ],
     "hashType": "sha256"
